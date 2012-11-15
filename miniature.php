@@ -4,7 +4,7 @@ Plugin Name: Miniature
 Plugin URI: http://jeeker.net/projects/miniature/
 Description: Generate thumbnails from post and display them.
 Author: JinnLynn
-Version: 0.1b1
+Version: 0.1
 Author URI: http://jeeker.net/
 */
 
@@ -13,7 +13,7 @@ Author URI: http://jeeker.net/
  *
  * @since 0.1
  */
-define('MINIATURE_VERSION', '0.1b1');
+define('MINIATURE_VERSION', '0.1');
 
 /**
  * Miniature
